@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SneedZz
 - 👀 I’m interested in Software Devlopment / Frontend Development 
-- 🌱 I’m currently learning Java or re-learn it bc i got a apprenticeship in economic/IT
+- 🌱 I’m currently learning Java or re-learn it bc i got a apprenticeship in economics/IT
 - 📫 How to reach me well i guess here.
 
 <!---
