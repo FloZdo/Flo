@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
 </div>
 
+<h1> Hi There 👋</h1>
+
 - 👋 Hi, I’m @SneedZz
 - 👀 I’m interested in Software Devlopment / Frontend Development 
 - 🌱 I’m currently learning Java or re-learn it bc i got a apprenticeship in economics/IT
