@@ -4,7 +4,7 @@
 
 <h1> Hi There 👋</h1>
 
-- 👋 Hi, I’m @SneedZz/Flo
+- 👋 Hi, I’m Flo
 - 👀 I’m interested in Software Devlopment / Frontend Development 
 - 🌱 I’m currently learning Java or re-learn it bc i got a apprenticeship in economics/IT
 - 📫 How to reach me well i guess here.
